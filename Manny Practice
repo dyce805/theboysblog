@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+	<head>
+		<title>The Boys Beta </title>
+	</head>
+
+	<body>
+		<h1>The Boys Beta</h1>
+		<img src="https://upload.wikimedia.org/wikipedia/en/5/58/The_Boys_Title_Card.png">
+
+		<p>
+			<strong>WELCOME WORLD</strong><br>
+			<em>TUNE IN FOR THIS MONTH'S BOYS MEETING</em>
+		</p>
+		<p>
+			<strong>AND ON TODAY'S MEETING....</strong><br>
+		</p>
+		<p>
+			this is <strong>bold</strong><br>
+			this is <em>italic</em>
+		</p>
+		<a href="http://www.google.com">google.com</a>
+
+		<ul>
+			<li>home</li>
+			<li><a href="page2.html">Page 2</a></li>
+			<li><a href="page3.html">Page 3</a></li>
+		</ul>
+
+		<h2>This is my homepage</h2>
+		<p>And all of my homepage content</p>
+	</body>
